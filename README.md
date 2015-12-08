@@ -1,2 +1,2 @@
 # CSU0018
-Assignments of NTNU CSIE 103-2 CSU0018 Algorithms course
+Repo for NTNU CSU0018 Algorithms
