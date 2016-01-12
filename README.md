@@ -1,2 +1,2 @@
 # CSU0018
-Repo for NTNU CSU0018 Algorithms
+NTNU CSU0018 Algorithms
